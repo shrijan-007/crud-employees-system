@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color: #282c34;
+  color: white;
 }
 
 .App-logo {
@@ -28,6 +30,72 @@
   color: #61dafb;
 }
 
+.Emp-listing-container{
+  margin: 20px auto;
+  display: flex;
+  border: none;
+  box-shadow: 0px 0px 20px 0px rgb(56 62 73 / 66%);
+  width: 80%;
+  padding: 12px 12px 30px;
+  background-color: #292e334d;
+  border-radius: 12.5px;
+}
+
+.Add-container{
+  position: fixed;
+    width: 100%;
+    background: #14161a;
+    bottom: 0;
+    padding: 1rem;
+    box-shadow: 0px 0px 20px 0px rgb(56 62 73 / 66%);
+}
+.go-back-btn{
+  margin: 12px auto;
+}
+
+/* table props */
+thead{
+  border-bottom: 1px solid white !important;
+  font-size: 18px;
+  font-weight: 600;
+}
+td{
+  vertical-align: middle;
+}
+td.btn-group{
+  display: flex;
+}
+/* form props */
+.form-holder{
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2px;
+    margin: 20px auto;
+    background-color: #ffffff00;
+    width: 50%;
+}
+.form-holder form{
+  width: 100%;
+  margin: 16px;
+  background: rgba( 220, 230, 243, 0.3 ) !important;
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 4.5px );
+  -webkit-backdrop-filter: blur( 4.5px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.inputField{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.inputField label{
+  font-size: 18px;
+}
+.inputField input{
+  font-size: 18px;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

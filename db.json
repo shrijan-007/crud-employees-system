@@ -1,0 +1,102 @@
+{
+  "employee": [
+    {
+      "name": "Shrijan Shrivastava",
+      "email": "shrijan.shrivastava@crud.com",
+      "phone": "9384102382",
+      "designation": "CEO",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Hari Lal",
+      "email": "hl420@crud.com",
+      "phone": "9332424082",
+      "designation": "Manager"
+    },
+    {
+      "name": "Jason Bourne",
+      "email": "Bourne.jason@crud.com",
+      "phone": "09348239120",
+      "designation": "HR",
+      "id": 4
+    },
+    {
+      "name": "Joe Mama",
+      "email": "joeMama69@gmail.com",
+      "phone": "9824131231",
+      "designation": "Project Manager",
+      "id": 5
+    },
+    {
+      "name": "Kanta Singh",
+      "email": "S.Kanta2010@crud.com",
+      "phone": "9874320112",
+      "designation": "Designer",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "phone": "9876543210",
+      "designation": "Supervisor"
+    },
+    {
+      "id": 8,
+      "name": "Michael Johnson",
+      "email": "michaeljohnson@example.com",
+      "phone": "5555555555",
+      "designation": "Employee"
+    },
+    {
+      "id": 9,
+      "name": "Emily Davis",
+      "email": "emilydavis@example.com",
+      "phone": "4444444444",
+      "designation": "Employee"
+    },
+    {
+      "id": 10,
+      "name": "Daniel Wilson",
+      "email": "danielwilson@example.com",
+      "phone": "7777777777",
+      "designation": "Employee"
+    },
+    {
+      "id": 11,
+      "name": "Olivia Thompson",
+      "email": "oliviathompson@example.com",
+      "phone": "9999999999",
+      "designation": "Employee"
+    },
+    {
+      "id": 12,
+      "name": "David Lee",
+      "email": "davidlee@example.com",
+      "phone": "2222222222",
+      "designation": "Employee"
+    },
+    {
+      "id": 13,
+      "name": "Sophia Brown",
+      "email": "sophiabrown@example.com",
+      "phone": "3333333333",
+      "designation": "Employee"
+    },
+    {
+      "id": 14,
+      "name": "Matthew Wilson",
+      "email": "matthewwilson@example.com",
+      "phone": "6666666666",
+      "designation": "Employee"
+    },
+    {
+      "id": 15,
+      "name": "Emma Johnson",
+      "email": "emmajohnson@example.com",
+      "phone": "8888888888",
+      "designation": "Employee"
+    }
+  ]
+}
